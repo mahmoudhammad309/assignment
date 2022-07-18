@@ -14,18 +14,10 @@
   justify-content: center;
   align-items: center;
 }
-body {
-  background-color: red;
-}
+
 /* media query for  tablets, portrait*/
 @media (min-width: 768px) and (max-width: 1023px) {
-  body {
-    background-color: green;
-  }
 }
 /* media query for  laptops, and desktops*/
 @media (min-width: 1024px) {
-  body {
-    background-color: blue;
-  }
 }
